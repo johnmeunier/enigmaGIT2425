@@ -3,3 +3,5 @@ contenu du fichier
 ici la version b
 
 modif b
+
+modif a + b
