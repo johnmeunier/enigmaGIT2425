@@ -4,6 +4,8 @@ ici la version b
 
 modif b
 
-modif a + b
+modif a + c
 
 modif b in conflict
+
+modif b avec conflict
