@@ -6,6 +6,8 @@ modif b
 
 modif a + c
 
+ajout de commentaire
+
 modif b in conflict
 
 modif b avec conflict
