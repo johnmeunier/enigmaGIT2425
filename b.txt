@@ -5,3 +5,5 @@ ici la version b
 modif b
 
 modif a + b
+
+modif b in conflict
