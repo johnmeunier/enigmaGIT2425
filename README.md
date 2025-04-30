@@ -15,3 +15,9 @@ On découvre la commande status
 ## Commit
 
 On découvre le commit
+
+## Branch
+
+### Auth
+
+Je découvre le système de branching
